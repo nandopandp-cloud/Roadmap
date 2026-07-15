@@ -1,0 +1,10 @@
+.DS_Store
+
+# Internal-only deliverables (contain employee names / headcount planning)
+Roadmap-2026-Cenarios-Designer.pdf
+assets/Roadmap - 2026_02 (1).xlsx
+
+# Design reference kits (not part of the shipped page; fonts already inlined)
+assets/animations-gemini/
+assets/instagram-slides/
+assets/luxury-travel-59.aura.build/
